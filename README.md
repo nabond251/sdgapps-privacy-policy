@@ -2,9 +2,9 @@
 
 ## Data Storage
 
-All data used by an SDG Apps mobile application (hereafter "App") is used strictly for the operation of the App; for example, text data used by the app, or a log of recently selected text passages for user convenience.  Data is stored entirely on the mobile device running the app (hereafter "Device").  The App will use a local database located on the Device (hereafter "DB") to store and retrieve any data used by the App on the Device.  In some cases, an App will communicate with another App using a shared DB, only on the same Device.
+All data used by an SDG Apps mobile application (hereafter "App") is used strictly for the operation of the App; for example, text data used by the app, or a log of recently selected text passages for user convenience.  Data is stored entirely on the mobile device (hereafter "Device") running the app.  The App will use a local database (hereafter "DB") located on the Device to store and retrieve any data used by the App on the Device.  In some cases, an App will communicate with another App using a shared DB, only on the same Device.
 
-## Data Collection
+## Data Collection/Sharing
 
 An App will never collect sensitive information from the user, including any Personally Identifiable Information (PII).  An App will never share its data with, nor have its data collected by, SDG Apps or any of its affiliates.  An App will never share its data with, nor have its data collected by, another Device running an App.
 
